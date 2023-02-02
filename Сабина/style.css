@@ -1,0 +1,331 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue&display=swap');
+a{
+    text-decoration: none!important;
+    color: snow;
+}
+p {
+    font-family: 'Epilogue', sans-serif;
+}
+header {
+   display: flex;
+   justify-content: space-around;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: #010032;
+    color: snow;
+}
+.Log img{
+ max-width: 100%;
+ height: 85%;
+ margin-right: 16px;
+ margin-top: 5px;
+}
+.Log, .menu ul{
+    display: flex;
+    list-style-type: none;
+    
+}
+.menu a {
+margin-left: 40px;
+color: snow;
+font-family: 'Epilogue', sans-serif;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+
+
+}
+
+.section{
+margin-top: 40px
+
+
+}
+.wrapper h1{
+    margin-top: 80px;
+    font-weight: 400;
+font-size: 72px;
+line-height: 76px;
+margin-bottom: 34px;
+}
+.section{
+    background: #010032;
+
+}
+.cvet{
+    color: snow
+}
+.wrapper h1{
+    color: snow
+}
+.wrapper button{
+    padding: 21px 42px;
+    background: #FFFFFF;
+border: 2px solid #FFFFFF;
+border-radius: 32px;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+margin-top: 23px;
+margin-bottom: 104px;
+}
+.wrapper p{
+    color:snow;
+    font-weight: 400;
+font-size: 22px;
+line-height: 34px;
+
+}
+.text-a  p{
+    color:snow;
+    font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+
+}
+.texta1 p {
+    color: snow;
+    font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+color: rgba(255, 255, 255, 0.6);
+
+}
+.wr_in{
+    display: flex;
+
+}
+.wr_in img {
+    width: 100px;
+height: 15px;
+
+
+}
+.tx_about{
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #4543E8;
+    margin-left: 15px;
+
+}
+.text_op h1{
+    font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 54px;
+}
+.gg{
+    padding-top: 146px;
+}
+.profile_img { 
+    display: flex;
+    margin-top: 23px;
+    height: 64px;
+
+}
+.desk{
+    display: block;
+    margin-left: 24px;
+    font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+}
+.star_img svg{
+    color: #4543E8;
+ 
+}
+.text_comm {
+    width: 391px;
+    font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 28px;
+margin-top: 23px;
+}
+.desk .descr {
+    font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+margin-top: 7px;
+height:24px ;
+}
+.cc h1{
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 71px;
+    line-height: 31px;
+    display: flex;
+    margin-top: 74px;
+    color:#4543E8;
+}
+.left{
+   margin-left: 64px;
+}
+.logoo .logotip{
+    display: flex;
+    justify-content: flex-end;
+ margin-right: -50px;
+ margin-top: -50px;
+   
+}
+.logotip img{
+margin-left: 57px;
+}
+.lol{
+    display: flex;
+    width: 100px;
+    height: 15px;
+  
+}
+
+.wr_inn{
+    font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+margin-left: 15px;
+
+
+}
+.text2{
+    font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 66px;
+padding-top:34px;
+
+}
+.images{
+    display: flex;
+    margin-top: 78px;
+ 
+}
+.texttt{
+    font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+padding-top:32px;
+display: flex;
+
+
+}
+.textmal{
+    font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 28px;
+}
+.picture{
+    padding-left: 200px;
+    display: flex;
+}
+.textp {
+    display: flex;
+    font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+padding-top: 32px;
+}
+.textmall{
+    font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 28px;
+
+}
+.pictture {
+    margin-left: 287px;
+}
+.textup{
+    display: flex;
+    font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+padding-top: 32px;
+
+}
+.textdown{
+    font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+}
+.imgg {
+    margin-left: 470px;
+    padding-top: 109px;
+}
+
+.poll {
+    padding-left: 451px;
+}
+.textupp{
+    display: flex;
+    font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+padding-top: 34px;
+}
+.textdowm{
+    font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 28px;
+}
+.pictre{
+    padding-left: 314px;
+}
+.picrt{
+    padding-left: 148px;
+   
+}
+.textverh{
+    display:flex ;
+    font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+padding-top: 32px;
+}
+.textvniz{
+    font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 28px;
+}
+.picttre {
+    padding-left:251px;
+}
+.newblock{ 
+    padding-top: 248px;
+}
+.photosss{
+    padding-top: 84px;
+    padding-bottom: 120px;
+}
